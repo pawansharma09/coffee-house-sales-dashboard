@@ -183,7 +183,8 @@ SELECT
 FROM coffee_shop_sales
 WHERE MONTH(transaction_date) = 5
 GROUP BY Day_of_Week;
-Sales by Hour (Full Day)
+
+### Sales by Hour (Full Day)
 
 SELECT 
     HOUR(transaction_time) AS Hour_of_Day,
