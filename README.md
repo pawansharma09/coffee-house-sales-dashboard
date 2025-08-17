@@ -60,8 +60,8 @@ This project demonstrates the complete workflow of **data cleaning ➝ SQL analy
 ---
 
 ## 🗂️ Repository Structure
-- `sql.md` → All SQL queries for data cleaning and KPI calculations  
-- `coffee-house-sales-dashboard.pbix` → Power BI dashboard file  
+- `Sql/sql-queries.md` → All SQL queries for data cleaning and KPI calculations  
+- `Dashboard/coffee-house-sales-dashboard.pbix` → Power BI dashboard file  
 - `coffee-house-sales-dashboard.png` → Dashboard screenshot  
 
 ---
