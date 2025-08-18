@@ -3,59 +3,58 @@
 ![Dashboard Screenshot](coffee-house-sales-dashboard.png)
 
 ## 📊 Project Overview
-A comprehensive **end-to-end analytics project** for a coffee house chain.  
-- The dataset was uploaded into **MySQL**.  
-- Using **SQL queries**, key KPIs and insights were derived (Sales, Orders, Quantity).  
-- These cleaned and aggregated results were then visualized in a **Power BI dashboard**.  
+A comprehensive **end-to-end analytics project** for a Coffee House chain.  
 
-This project demonstrates the complete workflow of **data cleaning ➝ SQL analysis ➝ business insights ➝ interactive dashboarding**.
+- The dataset was loaded into **MySQL** for preprocessing.  
+- Using **SQL queries**, key KPIs and insights were extracted (Sales, Orders, Quantity).  
+- Data was then modeled and visualized in an **interactive Power BI dashboard**.  
+
+This project demonstrates the complete workflow of **Data Cleaning ➝ SQL Analysis ➝ Business Insights ➝ Dashboarding in Power BI**.
 
 ---
 
 ## 🔍 Key Features
-- **Interactive calendar heatmap** showing daily sales
-- **Weekday vs weekend** performance analysis
-- **Top 10 products** visualization
-- **Store location comparisons** with MoM metrics
-- **Daily sales** with average line reference
-- **SQL-powered data processing** before dashboard visualization
+- **Calendar heatmap** for daily sales trends.  
+- **Weekday vs Weekend performance** comparison.  
+- **Top 10 best-selling products** highlighted.  
+- **Store location comparisons** with Month-on-Month (MoM) growth.  
+- **Daily sales bar chart with average line reference**.  
+- **Sales by Product Category** with growth percentage.  
+- **Sales by Days & Hours Heatmap** to analyze peak sales timings.  
 
 ---
 
 ## 🛠️ Technologies Used
-- **SQL (MySQL)** → Data cleaning, KPI calculations, insights  
-- **Power BI** → Dashboard creation, interactivity  
-- **DAX (Data Analysis Expressions)** → Advanced measures in Power BI  
+- **SQL (MySQL)** → Data cleaning, KPI calculations, trend analysis  
+- **Power BI** → Dashboard design & interactivity  
+- **DAX (Data Analysis Expressions)** → Advanced measures and MoM calculations  
 - **Power Query** → Data transformation within Power BI  
 
 ---
 
 ## 📈 KPIs Tracked
 1. **Total Sales Analysis**  
-   - Monthly sales totals  
-   - Month-on-Month (MoM) growth %  
-   - MoM difference in sales  
+   - $157K in May 2023  
+   - +31.8% growth vs last month  
 
 2. **Total Orders Analysis**  
-   - Monthly order count  
-   - MoM growth %  
-   - MoM order differences  
+   - 33,527 orders  
+   - +32.3% growth vs last month  
 
 3. **Total Quantity Sold Analysis**  
-   - Monthly quantity sold  
-   - MoM growth %  
-   - MoM differences  
+   - 48,233 items sold  
+   - +32.3% growth vs last month  
 
 ---
 
 ## 📊 Charts Implemented
-1. **Calendar Heat Map** – daily sales insights  
-2. **Sales by Weekdays/Weekends** – behavioral analysis  
+1. **Calendar Heat Map** – daily sales performance  
+2. **Sales by Weekday/Weekend** – customer behavior analysis  
 3. **Sales by Store Location** – regional performance with MoM change  
-4. **Daily Sales with Average Line** – spotting above/below average days  
-5. **Sales by Product Category** – category-level contribution  
-6. **Top 10 Products** – best sellers analysis  
-7. **Sales by Days/Hours Heatmap** – temporal sales behavior  
+4. **Sales Trend with Average Line** – spotting above/below average sales days  
+5. **Sales by Product Category** – contribution & growth %  
+6. **Top 10 Products** – identifying best sellers  
+7. **Sales by Days/Hours Heatmap** – temporal sales distribution  
 
 ---
 
@@ -65,6 +64,15 @@ This project demonstrates the complete workflow of **data cleaning ➝ SQL analy
 - `coffee-house-sales-dashboard.png` → Dashboard screenshot  
 
 ---
+
+
+---
+
+## 🤝 Contributing
+Pull requests are welcome! For major changes, please open an issue first to discuss improvements.
+
+👨‍💻 Developed by **Pawan Sharma**
+
 
 ## 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.  
